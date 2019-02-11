@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cartoon Theme Songs</string>
+    <string name="song1">Fairly Odd Parents</string>
+    <string name="song2">Pokemon</string>
+    <string name="song3">Scooby Doo</string>
+    <string name="stop">Stop</string>
+    <string name="play">Start</string>
+</resources>
